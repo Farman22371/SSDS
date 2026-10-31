@@ -54,7 +54,6 @@ Final-Year Project supervised by Engr. Sami Ullah, Lecturer, UET Mardan
 **Contact**
 
 - Email: engrfarmanullah4@gmail.com
-- LinkedIn: [add your LinkedIn URL]
 - GitHub: [github.com/Farman22371](https://github.com/Farman22371)
 
 **Disclaimer**

@@ -37,10 +37,6 @@ Reported result: modeling time reduced from about 8 hours (manual) to about 8 mi
 
 Note: Windows may show a SmartScreen warning because the installer is not code-signed. Click "More info", then "Run anyway".
 
-**Validation**
-
-[Describe how you checked the results, for example: results compared with manually built ETABS models for n test buildings, with x% difference.]
-
 **Tools and technologies**
 
 Python | PyQt5 | ETABS v21 | ETABS COM API | comtypes | PyInstaller | Inno Setup
